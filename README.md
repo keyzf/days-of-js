@@ -15,3 +15,6 @@ O que eu quero aqui é fazer uma espécie de **diário**, onde a cada dia que eu
 * Finais de semana são dias off, mas vale estudar caso me sinta a vontade.
 * Respeitar os dias ruins, tá tudo bem não estar sempre bem.
 * Registrar no [diário](https://github.com/levxyca/days-of-js/blob/main/log.md), além do que foi estudado naquele dia, meus sentimentos.
+
+### Confira toda a minha trajetória
+Dia 1: [Log](https://github.com/levxyca/days-of-js/blob/main/log.md#dia-1-novembro-9-segunda-feira-2020) / [Tweet](https://twitter.com/levxyca/status/1325971107602714629)
