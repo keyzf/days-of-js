@@ -26,3 +26,11 @@ Para treinar a sintaxe, decidi testar o [Exercism](https://exercism.io/) onde fa
 * Números e Operadores
 
 **Sentimentos:** Eu já comecei pulando um dia na minha jornada, é o carma mesmo para me testar e ver se eu não vou desistir mesmo ficando algum dia sem estudar. Infelizmente, ontem não foi um dia bom, não que hoje tenha sido, mas foi menos pior, foi dia de live, o que me deixa um pouco melhor. de qualquer forma, fiz o maior esforço possível para estudar pelo menos os 30 minutos. Foi legal fazer os exercícios e brincar com os resultados do console do browser.
+
+## Dia 3: Novembro 16, Segunda-feira, 2020
+**Resumo dos estudos diários:** Comecei a ler o livro traduzido pela BrazilJS, Eloquente Javascript e estou gostante bastante, pretendo seguir da seguinte forma: ler o livro, vídeo aulas e exercícios práticos do assunto que estou estudando.
+
+* Introdução
+* Valores, Tipos e Operadores
+
+**Sentimentos:** Uau, quanto tempo hein? Essa última semana foi fogo, apesar disso, eu dei uma estudada leve em dias aleatórios, porém acabei optanto por não registrar aqui, o que talvez tenha sido um erro? Não sei dizer ainda. Eu ando tendo muita dificuldade em me focar, isso não só para estudar, eu não consigo focar em ver um vídeo no youtube, ver um série, jogar algo, eu sempre preciso estar com 10 coisas abertas ao mesmo tempo e não consigo prestar atenção de verdade em nada. Preciso me resolver com isso.
