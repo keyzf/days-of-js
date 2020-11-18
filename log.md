@@ -34,3 +34,11 @@ Para treinar a sintaxe, decidi testar o [Exercism](https://exercism.io/) onde fa
 * Valores, Tipos e Operadores
 
 **Sentimentos:** Uau, quanto tempo hein? Essa última semana foi fogo, apesar disso, eu dei uma estudada leve em dias aleatórios, porém acabei optanto por não registrar aqui, o que talvez tenha sido um erro? Não sei dizer ainda. Eu ando tendo muita dificuldade em me focar, isso não só para estudar, eu não consigo focar em ver um vídeo no youtube, ver um série, jogar algo, eu sempre preciso estar com 10 coisas abertas ao mesmo tempo e não consigo prestar atenção de verdade em nada. Preciso me resolver com isso.
+
+## Dia 4: Novembro 17, Terça-feira, 2020
+**Resumo dos estudos diários:** Li um capítulo do Eloquent Javascript, que por sinal, estou gostando bastante.
+
+Capítulo(s) lidos(s) - Eloquent Javascript:
+* Estrutura do Programa
+
+**Sentimentos:** Hoje foi um dia a qual eu estava super animada, então acabei aproveitando para fazer outras coisas também e estudar outros assuntos. Acho que não tenho muito o que dizer do dia de hoje, foi um dia feliz. Eu li apenas um capitulo do livros mas li aproveitando todo o conteúdo!
