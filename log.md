@@ -42,3 +42,12 @@ Capítulo(s) lidos(s) - Eloquent Javascript:
 * Estrutura do Programa
 
 **Sentimentos:** Hoje foi um dia a qual eu estava super animada, então acabei aproveitando para fazer outras coisas também e estudar outros assuntos. Acho que não tenho muito o que dizer do dia de hoje, foi um dia feliz. Eu li apenas um capitulo do livros mas li aproveitando todo o conteúdo!
+
+## Dia 5: Novembro 19, Quinta-feira, 2020
+**Resumo dos estudos diários:** Fiz dois exerícios do capítulo "Estrutura do Programa".
+
+Exercício(s) resolvido(s) - Eloquent Javascript:
+* Triângulo com Loop
+* FizzBuzz
+
+**Sentimentos:** Eu não sei o que ou como me expressar nesses últimos dias, hoje foi um bom dia, é isso.
