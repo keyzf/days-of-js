@@ -21,3 +21,4 @@ Dia 1: [Log](https://github.com/levxyca/days-of-js/blob/main/log.md#dia-1-novemb
 Dia 2: [Log](https://github.com/levxyca/days-of-js/blob/main/log.md#dia-2-novembro-11-quarta-feira-2020) / [Tweet](https://twitter.com/levxyca/status/1326680099475890182) |
 Dia 3: [Log](https://github.com/levxyca/days-of-js/blob/main/log.md#dia-3-novembro-16-segunda-feira-2020) / [Tweet](https://twitter.com/levxyca/status/1328491782536110087) |
 Dia 4: [Log](https://github.com/levxyca/days-of-js/blob/main/log.md#dia-4-novembro-17-ter%C3%A7a-feira-2020) / [Tweet](https://twitter.com/levxyca/status/1328858148669714434) |
+Dia 5: [Log](https://github.com/levxyca/days-of-js/blob/main/log.md#dia-5-novembro-19-quinta-feira-2020) / [Tweet](https://twitter.com/levxyca/status/1329555380763037697) |
