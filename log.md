@@ -51,3 +51,8 @@ Exercício(s) resolvido(s) - Eloquent Javascript:
 * FizzBuzz
 
 **Sentimentos:** Eu não sei o que ou como me expressar nesses últimos dias, hoje foi um bom dia, é isso.
+
+## Dia 6: Janeiro 05, Terça-feira, 2021
+**Resumo dos estudos diários:** Hoje vi sobre funções utilizando o livro Eloquent Javascript e fiz a resolução dos exercícios propostos. Fato interessante: eu não sabia que dava para chamar uma função dentro dela mesma.
+
+**Sentimentos:** Hoje foi um ótimo dia, consegui estudar depois de muito tempoe foi um dia que eu de fato estudei sem pensar "eu preciso fazer mais" eu fui no meu tempo e aproveitei ao máximo para compreender o conteúdo.
