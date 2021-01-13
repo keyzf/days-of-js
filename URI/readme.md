@@ -8,7 +8,7 @@ Aqui você encontra as minhas soluções para os problemas propostos no URI util
 
 | Nº | Resolução | Linguagem |
 |---|---|---|
-| Number | [Name]() | Javascript |
+| 1000 | [Hello World](iniciante/hello-world.js) | Javascript |
 
 ------------------------
 <p align="center">
