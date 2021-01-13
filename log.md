@@ -56,3 +56,8 @@ Exercício(s) resolvido(s) - Eloquent Javascript:
 **Resumo dos estudos diários:** Hoje vi sobre funções utilizando o livro Eloquent Javascript e fiz a resolução dos exercícios propostos. Fato interessante: eu não sabia que dava para chamar uma função dentro dela mesma.
 
 **Sentimentos:** Hoje foi um ótimo dia, consegui estudar depois de muito tempoe foi um dia que eu de fato estudei sem pensar "eu preciso fazer mais" eu fui no meu tempo e aproveitei ao máximo para compreender o conteúdo.
+
+## Dia 7: Janeiro 13, Quarta-feira, 2021
+**Resumo dos estudos diários:** Comecei a seguir [esse tutorial](https://www.youtube.com/watch?v=8xPsg6yv7TU) para criar um Doodle Jump com Javascript. Fiz o Doodler estático e as plataformas estáticas por enquanto.
+
+**Sentimentos:** Essa semana tem sido muito complicada pra mim, então percebi que pegando algo mais prático para fazer eu consigo estudar melhor e não ficar parada.
